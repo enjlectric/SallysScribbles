@@ -1,0 +1,310 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce57628ff98e46c4096da17c0df9294e, type: 3}
+  m_Name: Guy_Ronin
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: tagAlterEgo
+      Entry: 7
+      Data: 0|System.Collections.Generic.Dictionary`2[[Tag, Assembly-CSharp],[UnityEngine.Sprite,
+        UnityEngine.CoreModule]], mscorlib
+    - Name: comparer
+      Entry: 7
+      Data: 1|System.Collections.Generic.EnumEqualityComparer`1[[Tag, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: appearanceWeights
+      Entry: 7
+      Data: 2|System.Collections.Generic.Dictionary`2[[Weather, Assembly-CSharp],[Guy+Weight,
+        Assembly-CSharp]], mscorlib
+    - Name: comparer
+      Entry: 7
+      Data: 3|System.Collections.Generic.EnumEqualityComparer`1[[Weather, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 12
+      Data: 9
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 4
+    - Name: $v
+      Entry: 7
+      Data: 4|Guy+Weight, Assembly-CSharp
+    - Name: WeightValue
+      Entry: 3
+      Data: 2
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 1
+    - Name: $v
+      Entry: 7
+      Data: 5|Guy+Weight, Assembly-CSharp
+    - Name: WeightValue
+      Entry: 3
+      Data: 2
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 2
+    - Name: $v
+      Entry: 7
+      Data: 6|Guy+Weight, Assembly-CSharp
+    - Name: WeightValue
+      Entry: 3
+      Data: 2
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 3
+    - Name: $v
+      Entry: 7
+      Data: 7|Guy+Weight, Assembly-CSharp
+    - Name: WeightValue
+      Entry: 3
+      Data: 2
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 5
+    - Name: $v
+      Entry: 7
+      Data: 8|Guy+Weight, Assembly-CSharp
+    - Name: WeightValue
+      Entry: 3
+      Data: 2
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 6
+    - Name: $v
+      Entry: 7
+      Data: 9|Guy+Weight, Assembly-CSharp
+    - Name: WeightValue
+      Entry: 3
+      Data: 2
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 7
+    - Name: $v
+      Entry: 7
+      Data: 10|Guy+Weight, Assembly-CSharp
+    - Name: WeightValue
+      Entry: 3
+      Data: 2
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 8
+    - Name: $v
+      Entry: 7
+      Data: 11|Guy+Weight, Assembly-CSharp
+    - Name: WeightValue
+      Entry: 3
+      Data: 2
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 9
+    - Name: $v
+      Entry: 7
+      Data: 12|Guy+Weight, Assembly-CSharp
+    - Name: WeightValue
+      Entry: 3
+      Data: 2
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: seasonAppearanceMultipliers
+      Entry: 7
+      Data: 13|System.Collections.Generic.Dictionary`2[[Season, Assembly-CSharp],[Guy+Chance,
+        Assembly-CSharp]], mscorlib
+    - Name: comparer
+      Entry: 7
+      Data: 14|System.Collections.Generic.EnumEqualityComparer`1[[Season, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 1
+    - Name: $v
+      Entry: 7
+      Data: 15|Guy+Chance, Assembly-CSharp
+    - Name: Multiplier
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+  idleSprite: {fileID: 21300000, guid: 15dd6c2f05b1bd4499b5b820dd37f44f, type: 3}
+  leavesRightSide: 0
+  bias: -0.5
+  ArrivalSound: 122
+  DayTagSelectionChance: 0
+  OnlyAppearIfDayPrefersTag: 0
+  PreferredTagSelectionChance: 0.5
+  preferredTags: 39000000
+  thanksMessages:
+    worst:
+    - "\u3053\u308C\u306F\u3061\u3087\u3063\u3068\u3002\u3002\u3002"
+    bad:
+    - "\u3044\u3044\u306D\u3002"
+    - "\u3053\u308C\u306F\u3061\u3087\u3063\u3068\u3002\u3002\u3002"
+    decent:
+    - "\u3044\u3044\u7D75\u3060\u3088\u3002"
+    - "\u3042\u308A\u304C\u3068\u3046\u3054\u3084\u3044\u307E\u3059\u3002"
+    good:
+    - "\u3059\u3066\u304D\u3060\u3088\u3002"
+    - "\u3042\u308A\u304C\u3068\u3046\u3054\u3084\u3044\u307E\u3059\u3002"
+    great:
+    - "\u4E0A\u624B\u3060\u3088\u3002"
+    - "\u3042\u308A\u304C\u3068\u3046\u3054\u3084\u3044\u307E\u3059\u3002"
+    - "\u3059\u3070\u3089\u3057\u3044\u3002"
+    exceptional:
+    - "\u3068\u3066\u3082\u5927\u597D\u304D\u3002"
+    - "\u3042\u308A\u304C\u3068\u3046\u3054\u3084\u3044\u307E\u3059\u3002"
+    - "\u305C\u3072\u307E\u305F\u304F\u308B\u3060\u3088\u3002"
+    - "\u4E0A\u624B\u3060\u3088\u3002"
